@@ -1,0 +1,14 @@
+{
+  "name": "meu-bot-discord",
+  "version": "1.0.0",
+  "description": "Bot do Discord que remove links da blacklist.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.0.0",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.1"
+  }
+}
